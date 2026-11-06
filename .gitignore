@@ -1,9 +1,4 @@
-# Virtual environment
 proj/
-
-# Python generated files
 __pycache__/
 *.py[cod]
-
-# Environment variables
 .env
